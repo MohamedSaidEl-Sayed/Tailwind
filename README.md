@@ -1,2 +1,2 @@
 # Tailwind
-applying Tailwind CSS Framework
+Applying Tailwind CSS Framework
